@@ -1,3 +1,8 @@
+/**
+ * LAURE COHEN
+ * HEAR.FR - Communication graphique
+ */
+
 /*
 fichier test.json (simplifié) : 
  
