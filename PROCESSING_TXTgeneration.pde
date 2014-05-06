@@ -6,20 +6,33 @@
 /*
 fichier test.json (simplifié) : 
  
- { "noms": [
- {"mot": "acné",
- "feminin": 1 },
- {"mot": "ail",
- "masculin": 1 } ],
- "adjectifs":[
- {"racine": "acide",
- "masculin": "" ,
- "feminin": "" },
- {"racine": "accentué",
- "feminin": "e" },
- {"racine": "éclairci",
- "feminin": "e" } ]
- }*/
+{
+    "noms": [
+        {
+            "mot": "acné",
+            "feminin": 1
+        },
+        {
+            "mot": "ail",
+            "feminin": 0
+        }
+    ],
+    "adjectifs": [
+        {
+            "racine": "acide",
+            "masculin": "",
+            "feminin": ""
+        },
+        {
+            "racine": "accentué",
+            "feminin": "e"
+        },
+        {
+            "racine": "éclairci",
+            "feminin": "e"
+        }
+    ]
+}*/
 
 PFont maFonte;
 JSONObject vocabulaire;
